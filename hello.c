@@ -15,7 +15,6 @@
 // Hello World example for Genki Oka
 
 #include <stdio.h>
-#include <stderr.h>
 int main(void)
 {
     //Print the famous words
