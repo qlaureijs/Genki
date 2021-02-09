@@ -18,6 +18,6 @@
 int main(void)
 {
     //Print the famous words
-    printf(("Hello Genki\n"));
+    printf(("Hello World\n"));
     return 0;
 }
